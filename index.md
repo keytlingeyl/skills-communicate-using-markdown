@@ -9,3 +9,7 @@
 ``` javascript
 var myVar = "Hello, everyone!";
 ```
+
+- [x] Create a Presentation for the Lesson
+- [x] Review topics for Midterm
+- [ ] Prepare app for finals
